@@ -1,70 +1,82 @@
-# Getting Started with vite
+## 📄 README.md
 
-This project was bootstrapped with [vite](https://github.com/facebook/vite).
+```markdown
+# Interactive Card Details Form
 
-## Available Scripts
+This is a solution to the **Interactive Card Details** challenge on [Frontend Mentor](https://www.frontendmentor.io).  
+The goal of this project was to build an interactive credit card form that updates in real time as the user types.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Real-time input binding** – Updates the card preview as the user types.  
+- **Form validation** – Ensures users enter correct card details before submission.  
+- **Responsive design** – Fully optimized for desktop and mobile layouts.  
+- **Clean component structure** – Built with React JSX and custom CSS for styling.  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🛠️ Built With
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/vite/docs/running-tests) for more information.
+- **React (JSX)** – For component-based UI.  
+- **Custom CSS** – For styling, responsiveness, and layout handling.  
+- **Frontend Mentor Starter Files** – For project structure and assets.  
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🔧 Installation & Setup
 
-See the section about [deployment](https://facebook.github.io/vite/docs/deployment) for more information.
+Clone this repository and run locally:
 
-### `npm run eject`
+```bash
+# Clone repo
+git clone https://github.com/your-username/interactive-card-details.git
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Navigate into project
+cd interactive-card-details
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Install dependencies
+npm install
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Start development server
+npm start
+````
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 🎨 Design
 
-You can learn more in the [vite documentation](https://facebook.github.io/vite/docs/getting-started).
+* Desktop & mobile layouts were built according to the **Frontend Mentor Figma design**.
+* Typography, colors, and spacing match the challenge guidelines.
+* Card animations and transitions improve user interactivity.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 🧪 Learning Outcomes
 
-This section has moved here: [https://facebook.github.io/vite/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Through this project I learned:
 
-### Analyzing the Bundle Size
+* How to bind form inputs to UI elements dynamically in React.
+* Handling real-time validation and user feedback.
+* Structuring React components with reusability in mind.
+* Using custom CSS for responsive design without utility frameworks.
 
-This section has moved here: [https://facebook.github.io/vite/docs/analyzing-the-bundle-size](https://facebook.github.io/vite/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 📎 Links
 
-This section has moved here: [https://facebook.github.io/vite/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+* **Solution URL**: [Frontend Mentor Submission](https://www.frontendmentor.io/solutions/interactive-card-details-aYPDYpoADX)
+* **Live Site URL**: [Live Demo](https://your-live-demo-link.vercel.app/)
+* **GitHub Repo**: [GitHub](https://github.com/Jahsbaby/interactive-card-FM)
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/vite/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 👤 Author
 
-### Deployment
+* Frontend Mentor – [@your-username](https://www.frontendmentor.io/profile/Jahsbaby)
+* GitHub – [@your-username](https://github.com/Jahsbaby)
 
-This section has moved here: [https://facebook.github.io/vite/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/vite/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/vite/troubleshooting#npm-run-build-fails-to-minify)
+```
